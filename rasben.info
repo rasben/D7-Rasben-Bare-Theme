@@ -16,5 +16,8 @@ stylesheets[all][] = css/mobile.css
 
 regions[top] = Top 
 regions[header] = Header
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+regions[highlighted] = Highlighted
 regions[content] = Content
 regions[footer] = Footer
